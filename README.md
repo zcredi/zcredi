@@ -4,7 +4,10 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&height=40&lines=iOS+Developer+from+Gomel%2C+Belarus📍" alt="Typing SVG" /></a>
 
+<h3 align="left">— <a href="https://github.com/zcredi/zcredi/files/11960032/My.CV.pdf"> My CV</a> 👈
+
 <h2>👨‍💻 Current activities:</h2>
+
 <li>Swift Marathon 6.0 (mentor)</li>
 <li>Swift Marathon 7.0 (mentor and teamlead)</li>
 <li>Learn learn and learn again</li>
