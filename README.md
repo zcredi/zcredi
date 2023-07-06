@@ -4,7 +4,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&height=40&lines=iOS+Developer+from+Gomel%2C+Belarus📍" alt="Typing SVG" /></a>
 
-<h3 align="left">— <a href="https://github.com/zcredi/zcredi/files/11960032/My.CV.pdf"> My CV</a> 👈
+<h3 align="left">— <a href="https://github.com/zcredi/zcredi/files/11960032/My.CV.pdf" target="_blank"> My CV</a> 👈
 
 <h2>👨‍💻 Current activities:</h2>
 
@@ -43,5 +43,5 @@
 <h2>Contact Information<br>
   <h3>
 <li><img src="https://user-images.githubusercontent.com/31271156/218016469-28d0c04e-bcf0-4517-a59a-263adb610930.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://msngr.link/tg/zcredi">zcredi</a></li>
-<li><img src="https://user-images.githubusercontent.com/31271156/218015456-92e55195-4b7c-49c0-815f-76889be5ac6f.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://www.linkedin.com/in/vladislav-radchikov-67b89b185/">Vladislav Radchikov</a></li>
+<li><img src="https://user-images.githubusercontent.com/31271156/218015456-92e55195-4b7c-49c0-815f-76889be5ac6f.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://www.linkedin.com/in/zcredi/">Vladislav Radchikov</a></li>
   </h3>
