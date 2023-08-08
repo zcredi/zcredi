@@ -4,7 +4,7 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=550&height=40&lines=iOS+Developer+from+Gomel%2C+Belarus📍" alt="Typing SVG" /></a>
 
-<h3 align="left">— <a href="https://github.com/zcredi/zcredi/files/11967439/My.CV.pdf" target="_blank"> My CV</a> 👈
+<h3 align="left">— <a href="https://github.com/zcredi/zcredi/files/12291785/Vladislav.Radchikov.iOS.Developer.pdf" target="_blank"> My CV</a> 👈
 
 <h2>👨‍💻 Current activities:</h2>
 
