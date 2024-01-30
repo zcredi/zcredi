@@ -12,6 +12,7 @@
 <li>Swift Marathon 6.0 (mentor)</li>
 <li>Swift Marathon 7.0 (mentor and teamlead)</li>
 <li>Swift Marathon 8.0 (mentor and teamlead)</li>
+<li>Swift Marathon Х (mentor and teamlead)</li>
 <li>Learn learn and learn again</li>
 
 <h2>📖 Skills and Experience</h2>
