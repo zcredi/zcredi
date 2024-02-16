@@ -6,22 +6,6 @@
 
 <h3 align="left">— <a href="https://disk.yandex.ru/i/bE7IJBFxKIP1TQ" target="_blank"> My CV</a> 👈
 
-<h2>👨‍💻 Current activities:</h2>
-
-
-<li>Swift Marathon 6.0 (mentor)</li>
-<li>Swift Marathon 7.0 (mentor and teamlead)</li>
-<li>Swift Marathon 8.0 (mentor and teamlead)</li>
-<li>Swift Marathon Х (mentor and teamlead)</li>
-<li>Learn learn and learn again</li>
-
-<h2>📖 Skills and Experience</h2>
-
-- [Swift course from scratch. By Alexandr Slobodianiuk](https://www.youtube.com/@alexandrslobodianiuk7902/playlists)
-- [iOS developer course from scratch. From Learn Swift: cmd+B, cmd+R](https://www.youtube.com/@cmdBcmdR)
-- [I took the iOS & Swift Bootcamp course at Udemy under the guidance of Dr. Angela Yu.](https://www.udemy.com/course/ios-13-app-development-bootcamp/)
-- [Swift Marathon 5.0](https://t.me/swiftmarathon)
-
 <h2>GitHub Stats</h2>
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=zcredi&theme=onedark&no-bg=true&title=Commits,PR,Repo,Followers)](https://github.com/ryo-ma/github-profile-trophy)
@@ -45,6 +29,5 @@
 
 <h2>Contact Information<br>
   <h3>
-<li><img src="https://user-images.githubusercontent.com/31271156/218016469-28d0c04e-bcf0-4517-a59a-263adb610930.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://msngr.link/tg/zcredi">zcredi</a></li>
 <li><img src="https://user-images.githubusercontent.com/31271156/218015456-92e55195-4b7c-49c0-815f-76889be5ac6f.svg" width="25" height="25" align="center" border="3" hspace="10" vspace="10" /> <a href="https://www.linkedin.com/in/zcredi/">Vladislav Radchikov</a></li>
   </h3>
